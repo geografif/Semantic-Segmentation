@@ -16,10 +16,10 @@ Resources for semantic segmentation task using deep learning for satellite image
 ### Toolbox
 * Patchify
 * Geotiles
-* DeepGeo ToolBox
-* Complex-Valued Neural Networks
-* Smoothly Blend 
-* Mighty Mosaic
+* [DeepGeo ToolBox](https://github.com/rvmaretto/deepgeo)
+* [Complex-Valued Neural Networks](https://github.com/NEGU93/cvnn)
+* [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
+* [Mighty Mosaic](https://github.com/AurelienColin/MightyMosaic)
 
 ### Hands-on Tutorial
 * DigitalSreeni
