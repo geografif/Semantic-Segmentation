@@ -1,7 +1,8 @@
 Resources for satellite image deep learning for semantic segmentation task
 
-### Articles
+### Community Posts
 * [Satellite image semantic segmentation with U-Net](https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e)
+* [U-Net - Line by Line](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
 * Hyperparameters
 
 ### Base Architecture
