@@ -15,6 +15,7 @@ Resources for satellite image deep learning for semantic segmentation task
 * [Dual Stream U-Net](https://github.com/SebastianHafner/DS_UNet)
 
 ### Tools
+* [ImagePatches](https://github.com/nicknochnack/ImagePatches)
 * [Patchify](https://github.com/dovahcrow/patchify.py)
 * [Geotile](https://github.com/iamtekson/geotile)
 * [DeepGeo ToolBox](https://github.com/rvmaretto/deepgeo)
