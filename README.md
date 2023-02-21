@@ -1,4 +1,4 @@
-Resources for semantic segmentation task using deep learning for satellite images
+Resources for satellite image deep learning for semantic segmentation task
 
 ### Articles
 * [Satellite image semantic segmentation with U-Net](https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e)
@@ -11,7 +11,7 @@ Resources for semantic segmentation task using deep learning for satellite image
 * DeepLab
 
 ### Multi-modal Fusion Architecture
-* Dual Stream U-Net
+* [Dual Stream U-Net](https://github.com/SebastianHafner/DS_UNet)
 
 ### Tools
 * [Patchify](https://github.com/dovahcrow/patchify.py)
@@ -25,4 +25,3 @@ Resources for semantic segmentation task using deep learning for satellite image
 * DigitalSreeni ([Video](https://www.youtube.com/watch?v=jvZm8REF2KY), [Materials](https://github.com/bnsreenu/python_for_microscopists/tree/master/228_semantic_segmentation_of_aerial_imagery_using_unet))
 * GeoDev ([Video](#), [Materials](https://github.com/iamtekson/deep-learning-for-earth-observation))
 * Ricardo Dalagnol ([Video](https://www.youtube.com/watch?v=N3CHgRlRqOA), [Materials](https://github.com/ricds/DL_RS_GEE))
-* 
