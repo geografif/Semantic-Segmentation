@@ -20,3 +20,7 @@ Resources for semantic segmentation task using deep learning for satellite image
 * Complex-Valued Neural Networks
 * Smoothly Blend 
 * Mighty Mosaic
+
+### Hands-on Tutorial
+* DigitalSreeni
+* GeoDev
