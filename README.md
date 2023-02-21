@@ -22,7 +22,7 @@ Resources for semantic segmentation task using deep learning for satellite image
 * [Mighty Mosaic](https://github.com/AurelienColin/MightyMosaic)
 
 ### Hands-on Tutorial
-* DigitalSreeni [YVideo](https://www.youtube.com/watch?v=jvZm8REF2KY) [Materials](https://github.com/bnsreenu/python_for_microscopists/tree/master/228_semantic_segmentation_of_aerial_imagery_using_unet)
-* GeoDev [Video](#) [Materials](https://github.com/iamtekson/deep-learning-for-earth-observation)
-* U-Net with R [Video](https://www.youtube.com/watch?v=N3CHgRlRqOA) [Materials](https://github.com/ricds/DL_RS_GEE)
+* DigitalSreeni ([Video](https://www.youtube.com/watch?v=jvZm8REF2KY), [Materials](https://github.com/bnsreenu/python_for_microscopists/tree/master/228_semantic_segmentation_of_aerial_imagery_using_unet))
+* GeoDev ([Video](#), [Materials](https://github.com/iamtekson/deep-learning-for-earth-observation))
+* Ricardo Dalagnol ([Video](https://www.youtube.com/watch?v=N3CHgRlRqOA), [Materials](https://github.com/ricds/DL_RS_GEE))
 * 
