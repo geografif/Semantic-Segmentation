@@ -24,3 +24,5 @@ Resources for semantic segmentation task using deep learning for satellite image
 ### Hands-on Tutorial
 * DigitalSreeni
 * GeoDev
+* U-Net with R
+* 
